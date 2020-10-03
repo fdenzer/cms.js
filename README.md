@@ -5,11 +5,11 @@ It takes your content, renders Markdown and delivers a complete website in Singl
 
 ![CMS.js Screenshot](https://raw.githubusercontent.com/chrisdiana/cms.js/gh-pages/img/screenshot.png)
 
-
 [![Join the chat at https://discord.gg/A2cHjg3](https://img.shields.io/discourse/https/meta.discourse.org/status.svg)](https://discord.gg/A2cHjg3)
 [![Join the chat at https://gitter.im/cms-js/community](https://badges.gitter.im/cms-js/community.svg)](https://gitter.im/cms-js/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Version](https://img.shields.io/github/package-json/v/chrisdiana/cms.js.svg)
 ![License](https://img.shields.io/github/license/chrisdiana/cms.js.svg)
+[<img src="./badges/npm-audit-badge.png" title="npm audit" />](https://docs.npmjs.com/cli/audit)
 
 ## New Features in Version 2.0
 
